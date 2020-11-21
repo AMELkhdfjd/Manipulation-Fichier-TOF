@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605949368 source:c:\sfsd\serie1\tp_tof\fonction.c
+	"fonction.h"
+	<stdio.h>
+
+1605949368 c:\sfsd\serie1\tp_tof\fonction.h
+	<stdio.h>
+
